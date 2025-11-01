@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[branch "main"]
+	vscode-merge-base = origin/main
+[user]
+	name = SP23-BSE-106
+	email = munazzajaved277@gmail.com
+[remote "portfolio"]
+	url = https://github.com/SP23-BSE-106/portfolio2.git
+	fetch = +refs/heads/*:refs/remotes/portfolio/*

@@ -1,0 +1,23 @@
+Create README.md for portfolio showcase
+
+Added initial content for Amine's portfolio showcase including sections, features, technologies, and usage instructions.
+# Conflicts:
+#	README.md
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Amine Hamzaoui <aminehamzaoui1926@gmail.com>
+#
+# interactive rebase in progress; onto fdb15aa
+# Last commands done (2 commands done):
+#    pick 3ae4582 # Add files via upload
+#    pick 808ea55 # Create README.md for portfolio showcase
+# Next commands to do (16 remaining commands):
+#    pick 9d77968 # Update README.md
+#    pick f56f3c5 # Add files via upload
+# You are currently rebasing branch 'main' on 'fdb15aa'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#
